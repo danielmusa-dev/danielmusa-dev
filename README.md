@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I’m Daniel Musa 👋
 
-<!--
-**danielmusa-dev/danielmusa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Web Developer
 
-Here are some ideas to get you started:
+I’m a Computer Science graduate passionate about building modern web applications and solving real-world problems with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* MongoDB
+* MySQL
+
+Currently Learning
+
+* Advanced React Patterns
+* Backend Architecture
+* Cloud Deployment
+* API Development
+
+Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/daniel-musa-sina
+* Email: Danielmusacares@gmail.com
+
+Goals for 2026
+
+* Build production-ready full stack applications
+* Contribute to open-source projects
+* Secure a remote software development role
+* Continue growing as a full stack developer
